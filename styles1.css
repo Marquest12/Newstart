@@ -1,9 +1,7 @@
-text {
-  border-style: solid;
- 
-  border-color: rgb(205, 255, 225);
+.sender {
+  border: 1px solid rgb(205, 255, 225);
   background-color: blue;
-  font-size: 20px;
-  border-radius: 35px;
-  padding: 20px;
+  font-size: 10px;
+  border-radius: 20px;
+  width: 50px;
 }
